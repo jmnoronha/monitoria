@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    background-color: #129799;
+    height: 70vh;
+
+}
+nav{
+    display: flex;
+
+    
+    justify-content: center;
+    height: 8vh;
+    align-items: center;
+}
+ul{
+   font-size: large;
+    list-style: none;
+   width: 30vw;
+   display: flex;
+    
+   justify-content: space-around;
+
+}
+li{
+    font-size: 25px;
+    
+    color: white;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+h1{
+    position: relative 1vh;
+    color: aliceblue;
+   
+    font-size: 55px;
+}
+.secondNavHeader ul{
+    width: 52vw;
+}
+
+main{
+    background-color: #FFA185;
+   height: 100vh;
+}
+.SecondSectionmain{
+    display: flex;
+    border: solid;
+    height: 90vh;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.SecondSectionmain img{
+ width: 40vw;
+ height: 40vh;
+}
