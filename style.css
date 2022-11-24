@@ -65,3 +65,25 @@ main{
  width: 40vw;
  height: 40vh;
 }
+
+footer{
+    background-color: #129799;
+    height: 70vh;
+    justify-content: center;
+}
+
+.navFooter{
+    display: flex;
+        justify-content: left;
+}
+
+.navFooter ul{
+
+    display: flex;
+    font-size: small;
+}     
+
+.navFooter2{
+    display: flex;
+    justify-content: right ;
+}
